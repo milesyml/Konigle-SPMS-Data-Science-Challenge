@@ -8,4 +8,4 @@ Your task is to find the daily forecast of "total number of items sold" for the 
 
 ## Remarks
 - First runner up position
-- See [here](Konigle Data Science Challenge (Ming Long).ipynb) for submission
+- See notebook for submission
